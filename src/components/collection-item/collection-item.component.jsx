@@ -1,4 +1,4 @@
-import React, { Children } from 'react'
+import React from 'react'
 import './collection-item.styles.scss'
 
 export const CollectionItem = ({ name, price, imageUrl }) => {
